@@ -2,6 +2,8 @@
 
 <a href="https://github.com/emanuelepaiano/espresso-portal">Espresso PHP Portal</a>'s backend is a cakephp 3.x based backend
 
+![alt tag](https://github.com/emanuelepaiano/espresso-admin/blob/master/screenshots/1.png)
+
 ***
 ### How to test (mysql-mode Only)
 
@@ -18,8 +20,6 @@
 5. Change mysql options into config/app.php
 6. Import session.sql into hotspot db (optional)
 8. change admin password and delete db_setup folder
-
-![alt tag](https://github.com/emanuelepaiano/espresso-admin/blob/master/screenshots/1.png)
 
 ***
 
