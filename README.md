@@ -13,10 +13,10 @@
 2. Import db_setup/hotspot.sql into mysql database
 3. Run cakephp debug server with bin/cake server --host [remoteserver_ipaddress]
 4. Open your browser to "http://[remoteserver_ipaddress]:8765/" using
-
-   user: admin@backend.local
+<br>
+   user: admin@backend.local<br>
    password: espresso
-
+<br>
 5. Change mysql options into config/app.php
 6. Import session.sql into hotspot db (optional)
 8. change admin password and delete db_setup folder
