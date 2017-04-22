@@ -1,7 +1,6 @@
 # Espresso-Admin - Work in progress
 
-<a href="https://github.com/emanuelepaiano/espresso-portal">Espresso PHP Portal</a>'s backend is a cakephp 3.x based backend
-
+<a href="https://github.com/emanuelepaiano/espresso-portal">Espresso PHP Portal</a>'s backend, written with cakephp 3.x
 ![alt tag](https://github.com/emanuelepaiano/espresso-admin/blob/master/screenshots/1.png)
 
 ***
@@ -28,7 +27,7 @@ This tool is released under GPL3 License
 ***
 
 ### FUTURE RELEASES
-I'm working for embedded Linux iso with Espresso Frontend and Backend
+I'm working for Linux ready hotspot distro with Espresso Frontend and Backend
 
 ### AUTHOR
 Emanuele Paiano - nixw0rm [at] gmail [dot] com
