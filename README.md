@@ -1,7 +1,9 @@
-# Espresso-Admin based on Cakephp 3.x framework - Work in progress
+# Espresso-Admin (based on Cakephp 3.x framework) - Work in progress
 
-How to test (mysql-mode Only)
+***
+### How to test (mysql-mode Only)
 
+***
 0. Install Espresso Frontend
 1. Unzip this folder to remote hard drive
 2. Import db_setup/hotspot.sql into mysql database
@@ -15,4 +17,26 @@ How to test (mysql-mode Only)
 6. Import session.sql into hotspot db (optional)
 8. change admin password and delete db_setup folder
 
-LICENSE: GPL3
+![alt tag](https://github.com/emanuelepaiano/espresso-freewifi-portal/blob/master/screenshots/en.png)
+
+***
+
+### LICENSE
+This tool is released under GPL3 License
+
+***
+
+### FUTURE RELEASES
+![alt tag](https://github.com/emanuelepaiano/espresso-admin/blob/master/screenshots/dashboard.png)
+
+### AUTHOR
+Emanuele Paiano - nixw0rm [at] gmail [dot] com
+
+***
+
+### SUPPORT ME
+If you like this project, consider a little donation. At least you can offer me a coffee.. :)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/emanuelepaiano)
+
+***
