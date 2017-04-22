@@ -17,7 +17,7 @@
 6. Import session.sql into hotspot db (optional)
 8. change admin password and delete db_setup folder
 
-![alt tag](https://github.com/emanuelepaiano/espresso-freewifi-portal/blob/master/screenshots/en.png)
+![alt tag](https://github.com/emanuelepaiano/espresso-admin/blob/master/screenshots/1.png)
 
 ***
 
@@ -27,7 +27,7 @@ This tool is released under GPL3 License
 ***
 
 ### FUTURE RELEASES
-![alt tag](https://github.com/emanuelepaiano/espresso-admin/blob/master/screenshots/dashboard.png)
+I'm working for embedded Linux iso with Espresso Frontend and Backend
 
 ### AUTHOR
 Emanuele Paiano - nixw0rm [at] gmail [dot] com
