@@ -1,4 +1,6 @@
-# Espresso-Admin (based on Cakephp 3.x framework) - Work in progress
+# Espresso-Admin - Work in progress
+
+<a href="https://github.com/emanuelepaiano/espresso-portal">Espresso PHP Portal</a>'s backend is a cakephp 3.x based backend
 
 ***
 ### How to test (mysql-mode Only)
