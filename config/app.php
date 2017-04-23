@@ -230,7 +230,7 @@ return [
              */
             //'port' => 'non_standard_port_number',
             'username' => 'root',
-            'password' => 'area51',
+            'password' => 'password',
             'database' => 'hotspot_backend',
             'encoding' => 'utf8',
             'timezone' => 'UTC',
