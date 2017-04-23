@@ -8,7 +8,7 @@
 
 ***
 <ul>
-<li> Install Espresso Frontend and cURL php extension</li>
+<li> Install <a href="https://github.com/emanuelepaiano/espresso-portal">Espresso Frontend</a> and cURL php extension</li>
 <li> 1. Unzip this folder to remote hard drive</li>
 <li> 2. Import db_setup/hotspot.sql into mysql database</li>
 <li> 3. Run cakephp debug server with bin/cake server --host [remoteserver_ipaddress]</li>
