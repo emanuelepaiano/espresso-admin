@@ -1,4 +1,4 @@
-# Espresso-Admin - Deprecated
+# Espresso-Admin - [Deprecated]
 
 <p><b>NOTE: this version is obsolete. I'm working for Springboot/Angular based version, with microservices and monolithic versions (this will contain Espresso Admin and Espresso Portal in a single package) </b></p>
 
