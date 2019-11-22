@@ -1,8 +1,6 @@
 # Espresso-Admin - [Deprecated]
 
-<p><b>NOTE: this version is obsolete. I'm working for Springboot/Angular based version, with microservices and monolithic versions (this will contain Espresso Admin and Espresso Portal in a single package) </b></p>
-
-
+<p><b>NOTE: I'm working for new Springboot/Angular implementation, with microservices and monolithic versions (this will contain Espresso Admin and Espresso Portal in a single package) </b></p>
 <a href="https://github.com/emanuelepaiano/espresso-portal">Espresso PHP Portal</a>'s backend, based on cakephp 3.x
 ![alt tag](https://github.com/emanuelepaiano/espresso-admin/blob/master/screenshots/1.png)
 
