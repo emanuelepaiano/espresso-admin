@@ -1,7 +1,7 @@
 # Espresso-Admin
 
-<b style="color: red">NB: This project has been deprecated. It's works anyway, but I suggest you to take a look to a modern springboot reimplementation
-  with embedded webserver and administration panel: <a href="https://emanuelepaiano.github.io/jespresso/index.html">jEspresso Guest Portal</a></b>
+<p><b style="color: red">NB: This project has been deprecated. It's works anyway, but I suggest you to take a look to a modern springboot reimplementation
+  with embedded webserver and administration panel: <a href="https://emanuelepaiano.github.io/jespresso/index.html">jEspresso Guest Portal</a></b></p>
 <a href="https://github.com/emanuelepaiano/espresso-portal">Espresso PHP Portal</a>'s backend, based on cakephp 3.x
 ![alt tag](https://github.com/emanuelepaiano/espresso-admin/blob/master/screenshots/1.png)
 
